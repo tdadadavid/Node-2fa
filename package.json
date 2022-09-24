@@ -1,0 +1,20 @@
+{
+  "name": "otpwithnodejs",
+  "version": "1.0.0",
+  "description": "learning ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "OTP"
+  ],
+  "author": "king",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-json-db": "^2.1.3",
+    "speakeasy": "^2.0.0",
+    "uuid": "^9.0.0"
+  }
+}
